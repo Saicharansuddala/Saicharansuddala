@@ -1,4 +1,4 @@
-## Hi there 👋
+Motivated MERN Stack Developer and VR/AR enthusiast seeking an entry-level Full Stack Developer position to leverage strong programming skills in JavaScript, TypeScript, and modern web technologies to build innovative and scalable applications
 
 <!--
 **Saicharansuddala/Saicharansuddala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
